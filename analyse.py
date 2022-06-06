@@ -50,7 +50,6 @@ def save(
 
 
 if __name__ == "__main__":
-    custom_config = "-l ces"
     results = []
 
     nlp = Czech()
